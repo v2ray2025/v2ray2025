@@ -137,11 +137,11 @@ v速云创立于2023年，采用Shadowsocks协议，节点覆盖常用地区和�
 
 - 免费节点分享 
 - 域名: ['https://hmxfx.xyz'] 
-- 标题:免费分享V2Ray节点！2025年1月10日提供10个高效的免费节点和4个订阅链接，兼容Clash、V2rayN等常用软件。享受瞬时连接的高速服务器，给你终身免费的VPN服务，轻松体验科学上网的新方式，获得优质的代理，畅通无阻的免费上网工具，快速且稳定！包括Shadowsocks，Trojan机场，免费代理服务，翻墙白嫖节点，永久免费代理  |  黑猫想分享 
+- 标题:免费分享V2Ray节点！2025年1月13日提供10个高效的免费节点和4个订阅链接，兼容Clash、V2rayN等常用软件。享受瞬时连接的高速服务器，给你终身免费的VPN服务，轻松体验科学上网的新方式，获得优质的代理，畅通无阻的免费上网工具，快速且稳定！包括Shadowsocks，Trojan机场，免费代理服务，翻墙白嫖节点，永久免费代理  |  黑猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=ae379e21573091d4c50048eebccaaedb
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f3bc6f62cb924a11b8e94286ec585983
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=49e798f315ae68170e3e9b7b89dc8cbd
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5dc58ecf3ea30aa56e7d3aaed8248dd2 
-- 更新时间: 2025年01月13日11点00分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=81340679ce27c119d4adb61a1f4ee505
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=871c3e8eb80de781c0adcd937e617ecd
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d9afd413fd31fac0c42f9e8b36a52042
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=360c61697302e7a47420ef1d3b853305 
+- 更新时间: 2025年01月13日11点45分 
 结束
