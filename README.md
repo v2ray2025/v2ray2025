@@ -139,15 +139,15 @@ v速云创立于2023年，采用Shadowsocks协议，节点覆盖常用地区和�
 - 域名: ['https://hmxfx.xyz'] 
 - 标题:2025年4月29日,提供10个订阅地址20高速免费节点,支持V2Ray、vpn、免费机场、无限流量,免费VPN,无限流量！V2Ray节点分享,支持v2ray,clash,小火箭！vpn,winxray、2rayNG,BifrostV,Clash,Kitsunebi,V2rayN,V2rayW,Clash,V2rayS,Mellow,Qv2ray,v2ray,clash机场,科学上网翻墙白嫖节点,免费梯子,白嫖梯子,免费代理,永久免费代理  |  黑猫想分享 
 - 内容: 
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=2e9a606e530b1475c6a317b2c8a5c551
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=bf804f226e79fa0c47b0da5b4b8e4708
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=b5bc56724489d57d561e571340df99a5
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=46b35b43d83fd0a5ab80fe849db9863c
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=b1090cc6f5426a814cf7a7fcc5dc101f
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=313f828bcdd80c6b22712d5ceeb1f384
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=8d7f2ce0375291c85c24d4ec6edecda4
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=bf804f226e79fa0c47b0da5b4b8e4708
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=b1090cc6f5426a814cf7a7fcc5dc101f
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=05d94181f477ec9a0a9cebdf3b68dab4
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=c5c70d20bd1276784a44fbc96b944877
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=2e9a606e530b1475c6a317b2c8a5c551
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=400f286b2c38fa48907f671e686858d0
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=46b35b43d83fd0a5ab80fe849db9863c
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=b5bc56724489d57d561e571340df99a5 
-- 更新时间: 2025年04月30日03点50分 
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=c5c70d20bd1276784a44fbc96b944877 
+- 更新时间: 2025年04月30日04点00分 
 结束
